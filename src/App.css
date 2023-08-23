@@ -1,0 +1,11 @@
+.cabecalho{
+  background-color: gray;
+  flex: auto;
+  align-items: flex-start;
+}
+
+.rodape{
+  background-color: gray;
+  flex: content;
+  align-content: flex-end;
+}
